@@ -13,3 +13,9 @@
 - **Date**: November, 2023
 - **Subject Leader**: [PEROLOKO](https://github.com/PEROLOKO)
 - **Description**: Developing an API using the Spring Framework, coupled with a mobile frontend to complement the proposed solution.
+
+### 3. [Database Application & Data Science](https://github.com/maarfelipe/GS2_2023_DatabaseApplicationAndDataScience)
+- **Project Status**: In Progress
+- **Date**: November, 2023
+- **Subject Leader**: [LuizSdO](https://github.com/LuizSdO)
+- **Description**: Creation of the Oracle database structure of the developed solution and PL/SQL programming to meet the subject's request.
