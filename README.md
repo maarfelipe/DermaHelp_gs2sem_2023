@@ -74,14 +74,14 @@ O desenvolvimento do DermaHelp não apenas desafia os alunos a aplicarem seus co
 - **Data**: Novembro, 2023
 - **Responsável**: [PEROLOKO](https://github.com/PEROLOKO)
 - **Descrição**: Desenvolvimento de uma API utilizando o Framework Spring, associada a uma interface frontal mobile para complementar a solução proposta.
-- [**Video Link**]()
+- [**Video Link**](https://youtu.be/-2v2zOImPe4)
 
 ### 4. [Hybrid Mobile App Development](https://github.com/leonardo-bragatti/global-solution-PEROLOKO)
 - **Status**: Completo
 - **Data**: Novembro, 2023
 - **Responsável**: [PEROLOKO](https://github.com/PEROLOKO)
 - **Descrição**: Desenvolvimento da aplicação Android utilizando o React para apresentar a solução.
-- [**Video Link**]()
+- [**Video Link**](https://youtu.be/-2v2zOImPe4)
 
 ### 5. [Database Application & Data Science](https://github.com/maarfelipe/GS2_2023_DatabaseApplicationAndDataScience)
 - **Status**: Completo
